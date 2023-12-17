@@ -1,0 +1,2 @@
+# MealMotionPrivacyPolicy
+Mealmotionのプライバシーポリシー公開用
